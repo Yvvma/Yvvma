@@ -12,7 +12,7 @@ I also do some side projects, mainly focused on VFX & Visual Communication.
   <img align="center" alt="AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Figma" height="100%" width="100%" src="https://github.com/Yvvma/DC4NUL/blob/main/assets/img/Spining.gif">
+  <img align="right" alt="Figma" height="128" width="128" src="https://github.com/Yvvma/DC4NUL/blob/main/assets/img/Spining.gif">
   
 </div>
 
