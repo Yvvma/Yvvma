@@ -17,8 +17,3 @@ I also do some side projects, mainly focused on VFX & Visual Communication.
 </div>
 
 ##
-
-<div>
-
-  
-</div>
