@@ -3,7 +3,7 @@
 I'm Yudi, currently working with UI/UX Design.
 I also do some side projects, mainly focused on VFX & Visual Communication.
 
-<div style="display: flex">
+<div>
 
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
